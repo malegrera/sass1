@@ -1,0 +1,17 @@
+{
+  "name": "sass1",
+  "version": "1.0.0",
+  "description": "mi primer proyecto sass",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Pilar Alegre",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
